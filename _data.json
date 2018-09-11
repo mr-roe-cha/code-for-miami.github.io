@@ -40,5 +40,17 @@
   "stories": {
     "title": "Stories",
     "header_text": "Stories"
+  },
+  "ideas": {
+    "layout": "_layout_content_only",
+    "header_text": "Make Miami Great Again!",
+    "title": "Code for Miami Ideas Suggestions",
+    "description": "Suggest ideas for how to improve Miami as a whole."
+  },
+  "ideas-thanks": {
+    "layout": "_layout_content_only",
+    "header_text": "Thank you",
+    "title": "Thank you",
+    "description": "Thanks for your idea submission."
   }
 }

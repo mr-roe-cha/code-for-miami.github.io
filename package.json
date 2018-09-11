@@ -1,7 +1,7 @@
 {
-  "name": "CodeForMiamiIssues",
-  "version": "0.0.1",
-  "description": "Open Issues from Code for America API",
+  "name": "codefor.miami",
+  "version": "0.0.2",
+  "description": "The Code for Miami website",
   "main": "js/app.js",
   "dependencies": {
     "angular": "^1.4.3",
@@ -18,6 +18,6 @@
     "Github",
     "Issues"
   ],
-  "author": "Cristina Solana",
+  "author": "Code for Miami",
   "license": "MIT"
 }
