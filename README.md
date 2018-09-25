@@ -23,9 +23,10 @@
     - metadata object key is the name of the Markdown file
 
 ## Deploying
-1. Make sure to compile css with either compass or sass
-2. ./deploy.sh
-3. All done
+1. Make sure to compile css
+2. Create a commit in the `dev` branch
+3. run `./deploy.sh`
+4. All done
 
 ## Contribute
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
