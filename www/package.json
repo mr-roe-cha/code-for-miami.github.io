@@ -1,12 +1,13 @@
 {
-  "name": "CodeForMiamiIssues",
-  "version": "0.0.1",
-  "description": "Open Issues from Code for America API",
+  "name": "codefor.miami",
+  "version": "0.0.2",
+  "description": "The Code for Miami website",
   "main": "js/app.js",
   "dependencies": {
     "angular": "^1.4.3",
     "angular-cache": "^4.3.2",
-    "angular-loading-bar": "^0.6.0"
+    "angular-loading-bar": "^0.6.0",
+    "angular-utils-pagination": "^0.11.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +18,6 @@
     "Github",
     "Issues"
   ],
-  "author": "Cristina Solana",
+  "author": "Code for Miami",
   "license": "MIT"
 }
